@@ -1,0 +1,32 @@
+pwd
+ls
+cd ..
+rm
+
+git clone https://github.com/sukhbirwalia/sukhbirrepo.git
+
+cd sukhbirrepo/
+
+git status
+
+git pull origin master
+
+git checkout -b new branch Name   switch to new branch
+
+git commit -m
+
+git commit "<message> added 5 new test cases" Id generates -commit
+
+git add .
+git commit
+esc
+"i" insert
+write.....
+esc
+shift :
+:
+wq
+
+git push origin master
+
+
