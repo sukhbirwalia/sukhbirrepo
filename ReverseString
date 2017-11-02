@@ -1,0 +1,8 @@
+String Str= "This is my first test case";
+String revString= " ";
+
+for (int i=Str.length-1; i>=o; i--){
+revString += Str.charAt(i);
+}
+System.Out.println(revString);
+}
